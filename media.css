@@ -1,0 +1,244 @@
+/*=============max-width: 1120px==============*/
+@media only screen and (max-width: 1120px) {
+	.block_central_introduction-title {
+		font-size: 50px;
+	}
+
+	.block_content-carousel {
+		justify-content: center;
+	}
+
+	.content-plains {
+		max-width: none;
+	}
+
+	.content-craters {
+		max-width: none;
+	}
+
+	.content-beach {
+		margin-top: 33px;
+		max-width: none;
+	}
+
+	.content_beach_form-logo {
+		max-width: none;
+	}
+
+	.block_registration {
+		justify-content: center;
+	}
+}
+
+
+
+
+/*=============max-width: 1003px==============*/
+
+@media only screen and (max-width: 1003px) {
+    .strip {
+        height: 60px;
+    }
+
+    .description_flex {
+        justify-content: center;
+    }
+
+    .description_flex-sidebar {
+        margin: 20px 0 0 0;
+        text-align: center;
+    }
+
+    .description_flex_sidebar-story {
+        margin: 30px 0 0 0;
+	}
+	
+	.block_central-top {
+		justify-content: center;
+		text-align: center;
+	}
+
+	.block_central-introduction {
+		margin: 0 5px 0 5px;
+		text-align: center;
+	}
+
+	.block_central_introduction-title {
+		justify-content: center;
+		text-align: center;
+	}
+
+	.block-search {
+		left: 40%;
+		transform: translate(-50%, -0%);
+	}
+
+	.filter {
+		height: 20px;
+		justify-content: center;
+	}
+
+	.aside_location {
+		justify-content: center;
+	}
+
+	.ligament {
+		display: none;
+	}
+
+	.aside_location-right_sidebar {
+		margin: 30px 5px 0 5px;
+	}
+
+	.subscription_formflex {
+		justify-content: center;
+	}
+
+	.subscription-npt {
+		margin-top: 30px;
+	}
+
+	.sidebar-list_time_item-top p {
+		margin: 0 0 8px 8px;
+	}
+
+	.sidebar-list_time_item-top img {
+		margin: 0 8px 8px 0;
+	}
+
+	.list_time_item_bottom-subitem_p:first-child {
+		margin: 0 0 0 8px;
+	}
+
+	.list_time_item_bottom-subitem_end {
+		margin: 0 8px 0 0;
+	}
+}
+
+
+
+/*=============max-width: 870px===============*/
+@media only screen and (max-width: 870px) {
+	.block_content-batu {
+		padding-left: 10px;
+		max-width: 175px;
+		overflow: auto;
+	}
+
+	.block_content-bromo {
+		max-width: 175px;
+		padding-right: 10px;
+	}
+}
+
+
+
+/*=============max-width: 810px===============*/
+@media only screen and (max-width: 810px) {
+	.top_menu {
+    display: none;
+	}
+}
+
+
+
+/*=============max-width: 570px===============*/
+@media only screen and (max-width: 570px) {
+	.form_registration-section_date p {
+	margin: 0 10px 0 10px;
+	}
+
+	.form_registration-section_date_2 p {
+	margin: 0 10px 0 10px;
+	}
+}
+
+
+
+/*=============max-width: 440px===============*/
+@media only screen and (max-width: 440px) {
+	.btn-see_more-bromo {
+		margin-left: 4px;
+	}
+	
+	
+	.block_registration-left_sidebar {
+		max-width: 390px;
+	}
+	
+	.list-right_sidebar {
+		max-width: 370px;
+	}
+	
+	
+	.section_widget-end {
+	padding-right: 10px;
+	font-size: 16px;
+	}
+	
+	.left_sidebar_control-btn:first-child {
+	margin-right: 15px;
+	}
+
+	.form_contact-mail {
+		margin: 0 auto;
+		max-width: 300px;
+	}
+
+	.location-flex_form {
+		margin-bottom: 0;
+		justify-content: center;
+	}
+
+	.location_flex_form-npt {
+		margin-bottom: 19px;
+		max-width: 300px;
+	}
+	
+	.form_contact-message {
+		margin: 0 auto;
+		max-width: 300px;
+	}
+	
+	.aside_location_form-btn {
+	max-width: 300px;
+	}
+	
+	.aside_location-right_sidebar h2 {
+		text-align: center;
+	}
+	
+	.subscription_formflex {
+		padding: 20px 0 20px 0;
+	}
+	
+	.subscription_formflex-title {
+		text-align: center;
+	}
+	
+	.subscription_npt-item {
+		margin-left: 5px;
+	}
+	
+	.subscription_npt_item-btn {
+		margin-right: 5px;
+	}
+	
+	.footer_aside-top {
+		justify-content: center;
+		text-align: center;
+	}
+	
+	.policy {
+		justify-content: center;
+		text-align: center;
+	}
+	
+	.social {
+		margin-top: 20px;
+	}	
+	
+	.footer_aside-bottom {
+	padding-top: 145px;
+	}
+}
